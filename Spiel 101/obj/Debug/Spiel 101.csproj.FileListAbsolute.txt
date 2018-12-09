@@ -1,0 +1,14 @@
+C:\Abyss\Spiel 101\Spiel 101\bin\Debug\Spiel 101.exe.config
+C:\Abyss\Spiel 101\Spiel 101\bin\Debug\Spiel 101.exe
+C:\Abyss\Spiel 101\Spiel 101\bin\Debug\Spiel 101.pdb
+C:\Abyss\Spiel 101\Spiel 101\obj\Debug\Spiel 101.csprojAssemblyReference.cache
+C:\Abyss\Spiel 101\Spiel 101\obj\Debug\Spiel_101.Form1.resources
+C:\Abyss\Spiel 101\Spiel 101\obj\Debug\Spiel_101.Properties.Resources.resources
+C:\Abyss\Spiel 101\Spiel 101\obj\Debug\Spiel 101.csproj.GenerateResource.cache
+C:\Abyss\Spiel 101\Spiel 101\obj\Debug\Spiel 101.csproj.CoreCompileInputs.cache
+C:\Abyss\Spiel 101\Spiel 101\obj\Debug\Spiel 101.exe
+C:\Abyss\Spiel 101\Spiel 101\obj\Debug\Spiel 101.pdb
+C:\Abyss\Spiel 101\Spiel 101\bin\Debug\Spiel 101.exe.manifest
+C:\Abyss\Spiel 101\Spiel 101\bin\Debug\Spiel 101.application
+C:\Abyss\Spiel 101\Spiel 101\obj\Debug\Spiel 101.exe.manifest
+C:\Abyss\Spiel 101\Spiel 101\obj\Debug\Spiel 101.application
